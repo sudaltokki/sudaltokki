@@ -5,7 +5,7 @@
 
 ## 👋 Hi, there!
 
-Hello, I'm Jiwon Park, dreaming of becoming an **AI Developer**.  
+Hello, I'm Jiwon Park.  
 I am majoring in **Computer Science and Engineering** at Ewha Womans University.  
 I am especially interested in **Computer Vision**, **Audio Processing**, and **Multimodal AI**.
 
@@ -37,7 +37,7 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 ## 🧑‍💻 Career 🧑‍💻
 |활동시기|기관|명칭|비고|
 |--------|----|----|-----|
-|~2019.02|동덕여자고등학교|고등학교|졸업|
+|2016.03~2019.02|동덕여자고등학교|고등학교|졸업|
 |2020.03~|이화여자대학교|소프트웨어학부 컴퓨터공학전공|재학|
 |2023.09~2024.02|교내인공지능동아리 Euron 중급세션|교육팀 운영진||
 |2023.09~2024.02|교내인공지능동아리 Euron 고급세션|학회원|수료|
