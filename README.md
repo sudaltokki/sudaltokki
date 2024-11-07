@@ -9,23 +9,10 @@ Hello, I'm Jiwon Park, dreaming of becoming an **AI Developer**.
 I am majoring in **Computer Science and Engineering** at Ewha Womans University.  
 I am especially interested in **Computer Vision**, **Audio Processing**, and **Multimodal AI**.
 
+<a href="https://fancy-sea-1dd.notion.site/Paper-List-13660237fa9c8007b681e36393ea6f59?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" width=100></a>
+<a href="https://sudaltokki.tistory.com/"><img src="https://img.shields.io/badge/tistory-fa0707?style=round-square&logo=tistory&logoColor=ffffff" width=100></a>
+<a href="mailto:mary000605@ewha.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" style="width:100px;"></a>
 <br>
-
-## 💻 DEV's log 💻
-<a href="https://fancy-sea-1dd.notion.site/Paper-List-13660237fa9c8007b681e36393ea6f59?pvs=4">
- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-</a>
-<br>
-<a href="https://sudaltokki.tistory.com/">
- <img src="https://img.shields.io/badge/tistory-fa0707?style=round-square&logo=tistory&logoColor=ffffff">
-</a>
-
-<br>
-
-## 📞 Contact 📞
-<a href="mailto:mary000605@ewha.ac.kr">
-<img src="https://img.shields.io/badge/mary000605@ewha.ac.kr-EA4335?style=round-badge&logo=Gmail&logoColor=white"> 
-
 <br>
 
 ## ⚙️ Tech List ⚙️
