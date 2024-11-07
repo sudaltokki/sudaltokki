@@ -33,12 +33,14 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 
 #### Tools 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat&logo=weightsandbiases&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google colab&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> 
 
 #### Platform
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
