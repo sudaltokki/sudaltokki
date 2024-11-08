@@ -23,9 +23,24 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 #### Tools 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
-<img src="https://i부원|수료|
-|2024.07~|빅데이터학회 ToBigs 제22기|학회원| |
+<img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat&logo=weightsandbiases&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google colab&logoColor=white">
+#### Platform
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000">
+<br>
+<br>
 
+## 🧑‍💻 Career 🧑‍💻
+|활동시기|기관|명칭|비고|
+|--------|----|----|-----|
+|2016.03~2019.02|동덕여자고등학교|고등학교|졸업|
+|2020.03~|이화여자대학교|소프트웨어학부 컴퓨터공학전공|재학|
+|2023.09~2024.02|교내인공지능동아리 Euron 중급세션|교육팀 운영진||
+|2023.09~2024.02|교내인공지능동아리 Euron 고급세션|학회원|수료|
+|2024.07~|빅데이터학회 ToBigs 제22기|학회원| |
 <br>
 <br>
 
@@ -33,7 +48,6 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 |취득시기|기관|명칭|비고|
 |--------|----|----|-----|
 |2024.09.16|한국데이터산업진흥원|ADsP(데이터분석 준전문가)| |
-
 <br>
 <br>
 
