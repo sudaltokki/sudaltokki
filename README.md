@@ -38,12 +38,8 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 <br>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudaltokki&include_all_commits=true&show_icons=true" alt="Anurag's GitHub stats" height="170"/>
-  </a>
-  <a href="https://solved.ac/mary000605/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mary000605" alt="Solved.ac Profile" height="170" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sudaltokki&include_all_commits=true&show_icons=true" alt="Anurag's GitHub stats" height="170"/></a>
+  <a href="https://solved.ac/mary000605/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mary000605" alt="Solved.ac Profile" height="170" /></a>
 </p>
 
 <br>
